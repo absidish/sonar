@@ -25,8 +25,8 @@
     }
   ],
   "ansible-configuration": {
-    "source-url": "https://github.com/absidish/app1/archive/master.zip",
-    "ansible-playbook": "site.yml",
+    "source-url": "https://github.com/absidish/sonar/archive/master.zip",
+    "ansible-playbook": "main.yml",
     "groups": [
       {
         "name": "servers",
